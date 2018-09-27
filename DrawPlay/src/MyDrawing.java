@@ -16,7 +16,8 @@ public class MyDrawing extends JPanel {
 	public void paintComponent(Graphics g) {
 		cat.draw(g, 50, 50);
 	}
-	
+	//trivial comment
+	// this is for parctice 
 	/**
 	 * @param args
 	 */
